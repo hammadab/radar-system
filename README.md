@@ -24,9 +24,9 @@ Our team members include:
 The ultrasonic sensor rotates on the motor and covers a span of 180 degrees of area to detect objects in it. The sensor and motor both work within controlled rotations and trigger/echo is set by the microcontroller. The LED matrices require 32 inputs but microcontroller does not have so many output pins, so I created a decoder on a FPGA (basys 3). The LCD was directly controlled by the microcontroller.
 
 These are the schematics
-![Schematics 1](/images/Schematic 1.png)
-![Schematics 2](/images/Schematic 2.png)
-![Schematics 3](/images/Schematic 3.png)
+![Schematics 1](/images/Schematic_1.png)
+![Schematics 2](/images/Schematic_2.png)
+![Schematics 3](/images/Schematic_3.png)
 
 This is the LCD we used
 ![LCD image](/images/LCD.png)
